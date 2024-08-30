@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 
 const ExibirPalavraChave = ({ palavraChave }) => {
   return <h2>Você digitou: {palavraChave}</h2>;
